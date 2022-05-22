@@ -1,11 +1,11 @@
 ### Hi there 👋, my name is Dhruv
 #### I am Android Developer | Problem solver
-![I am Android Developer | Problem solver]<div id="header" align="center">
+I am Android Developer | Problem solver
+<div id="header" align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-
-Skills: **ANDROID APP DEVELOPER / JS / HTML / CSS / REACT**
+**ANDROID APP DEVELOPER / JS / HTML / CSS / REACT**
 
 - 🌱 I’m currently learning Web Development 
 - 💬 Ask me about Android 
