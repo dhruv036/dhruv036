@@ -1,5 +1,6 @@
 
-# Hello there, I'm [Dhruv](https://vaibhavjaiswal.vercel.app) <img width="30px" height="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+<!-- <img alt = "profile views" src="https://komarev.com/ghpvc/?username=dhruv036&color=brightgreen">   -->
+# Hello there, I'm Dhruv <img width="30px" height="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 ## I'm a Computer Science and Engineering Graduate  
 
