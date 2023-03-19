@@ -6,7 +6,7 @@
 
 - 👨‍💻 I’m currently working on Android Development technologies like Kotlin, Android Jetpack etc.
 - 📚 I’m have Interest in Data Science 😅
-- 💪🏼 My Goals to work in Start ups ✈
+<!-- - 💪🏼 My Goals to work in Start ups ✈ -->
 
 ---
 
